@@ -1,0 +1,8 @@
+country:
+  name: Франция
+  economic:
+    base-rate: 0.5
+    currency: евро
+    limit-base-limit: 1_000_000_000
+    change-rate-count: 1_000_000_000
+    coefficient-for-per-change-rate: 0.99

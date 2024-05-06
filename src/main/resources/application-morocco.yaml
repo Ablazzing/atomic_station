@@ -1,0 +1,7 @@
+country:
+  name: Марокко
+  economic:
+    base-rate: 5
+    currency: дирхам
+    limit-base-limit: 5_000_000_000
+    over-limit-rate: 6
